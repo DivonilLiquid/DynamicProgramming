@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589271942 source:c:\users\meena\desktop\coding blocks\codes\data structure revision\dynamic programming\all permutation\main.cpp
+	<algorithm>
+	<iostream>
+	<set>
+	<vector>
+
